@@ -228,4 +228,5 @@ int main() {
     glfwDestroyWindow(window);
     glfwTerminate();
 
-    return
+    return 0;
+}
